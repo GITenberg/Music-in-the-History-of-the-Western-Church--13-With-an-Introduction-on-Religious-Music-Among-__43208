@@ -1,0 +1,35 @@
+_repo: Music-in-the-History-of-the-Western-Church--13-With-an-Introduction-on-Religious-Music-Among-__43208
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43208-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dickinson, Edward
+    birthdate: 1853
+    deathdate: 1946
+    gutenberg_agent_id: '42067'
+    url: http://www.gutenberg.org/2009/agents/42067
+description: ''
+gutenberg_issued: '2013-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43208'
+  lccn: '68025286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Church music'
+tableOfContents: 'Primitive and ancient religious music -- Ritual and song in the
+  early Christian church -- The liturgy of the Catholic Church -- The ritual chant
+  of the Catholic Church -- The development of mediaeval chorus music -- The modern
+  musical mass -- The rise of Lutheran hymnody -- Rise of the German cantata and passion
+  -- The culmination of German Protestant music: Johann Sebastian Bach -- The musical
+  system of the Church of England -- Congregational song in England and America --
+  Problems of church music in America.'
+title: "Music in the History of the Western Church\r\nWith an Introduction on Religious\
+  \ Music Among Primitive and Ancient Peoples"
+url: http://www.gutenberg.org/ebooks/43208
